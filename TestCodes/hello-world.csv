@@ -1,0 +1,2 @@
+id,location,loops,patterns
+p98c4,"hello-world.c:11,15",hello-world.c:10;hello-world.c:14,linear_map_reduction

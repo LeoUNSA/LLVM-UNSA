@@ -1,0 +1,2 @@
+id,location,loops,patterns
+pb6aa,"hello-world-linked-list.c:31,38",hello-world-linked-list.c:30;hello-world-linked-list.c:37,linear_map_reduction

@@ -1,0 +1,2 @@
+id,location,loops,patterns
+p0810,"streamcluster.c:14,33,40",streamcluster.c:32,tiled_map_reduction
