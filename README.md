@@ -17,12 +17,20 @@ sudo pacman -S clang cmake ninja boost boost-libs
 
 ```
 
+On Ubuntu, run:
+
+```
+sudo apt-get install clang libboost-dev cmake ninja-build
+```
+
+
+
 ### Compiling
 
 Take the following steps (beware that compiling LLVM consumes a significant amount of resources):
 
 ```
-git clone --recursive https://github.com/robcasloz/LLVM-UNSA.git
+git clone --recursive https://github.com/LeoUNSA/LLVM-UNSA.git
 cd LLVM-UNSA
 mkdir build
 cd build
