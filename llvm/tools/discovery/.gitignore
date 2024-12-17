@@ -1,0 +1,15 @@
+trace
+*.bin
+*.trace
+*.gv
+*.pdf
+*.ll
+*.html
+*.yaml
+*.dzn
+*.szn
+*.tags
+*.aliases
+*.components
+*.csv
+*.instructions
